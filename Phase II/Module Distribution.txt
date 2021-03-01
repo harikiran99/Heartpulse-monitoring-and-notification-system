@@ -1,0 +1,5 @@
+MODULE DISTRIBUTION:
+
+Code for calculating pulse and SpO2. – Hari Kiran
+Code to retrieve pulse and SpO2 values and check anomaly and handling twilio account. – Siva sai
+Handling AWS,Bolt cloud for collecting and to run Heart Rate and SpO2 Monitoring Code. –  Hemanth Sai

@@ -1,0 +1,11 @@
+January 27,2021 - January 31,2021:
+
+1. Meeting with project guide and discuss about the final paper of the project.
+2. Submitting paper to three conferences.
+3. Discussion with batch mates and project guide about the extension of our project.
+
+February 1,2021 - February 3,2021:
+
+1. We have discussed about the improvements which can be done in our project.
+2. One of the major change in our project is to use a different sensor instead of heart pulse sensor for additional features such as displaying oxygen level present in the blood. 
+ 
