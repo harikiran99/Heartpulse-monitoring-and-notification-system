@@ -1,0 +1,42 @@
+August 31,2020 - October 7,2020:
+
+1. Literature Survey
+2. Finalising on base paper
+
+October 7,2020 - October 13,2020:
+
+1. Creating an individual assignment 
+2. As a developer i received individual tasks to be done which is alloted by 
+   our team lead
+
+
+October 14,2020 - October 31,2020:
+
+1. Did research on twilio
+2. Gathered the tools required for twilio
+
+November 1,2020 - November 8,2020:
+
+1. collected the components required for my project.
+2. created an twilio account.
+
+November 9,2020 - November 15,2020:
+
+1. worked on twilio and collected the participants phone number and generated
+   a trail number.
+2. Tested the working of api message by using twilio
+
+November 16,2020 - November 23,2020:
+
+1. Generated the SID and AUTH TOKEN by using api explorer
+2. Sending the message using twilio to saved participants mobile using 
+   messaging API
+3. Generated the proper report
+
+November 24,2020 - November 30,2020:
+1. Made a quick analysis on my tasks
+2. Saved the generated SID and AUTH token of messaging api and set to aws console
+2. Created a word document on research of doing my twilio.
+
+December 1,2020 - December 7,2020:
+1. worked on documentation 
