@@ -1,0 +1,6 @@
+sudo apt-get-y update  //updating packages on ubuntu
+sudo apt install python3-pip //installing python
+sudo pip3 install boltiot
+sudo nano confi.py //file 1
+sudo nano heart_rate.py //file 2
+sudo python3 heart_rate.py //running code
